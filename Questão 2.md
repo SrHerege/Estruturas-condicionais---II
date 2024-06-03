@@ -15,4 +15,4 @@ elif calculo == '/':
 else:
     resultado = "Operação invalida!"
 
-print("O resultado é:", resultado)
+print("O resultado é:", resultado) #usando aspas duplas " " por vicio de linguavem em C
